@@ -1,0 +1,8 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "symfony/css-selector": "^5.4",
+        "scriptotek/marc": "^2.2",
+        "box/spout": "^3.1"
+    }
+}
